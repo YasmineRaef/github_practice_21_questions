@@ -17,9 +17,8 @@ Write your yes/no question on each line, then check the host's answer.
 
  1. A: [x] Yes  [ ] No   Q: Is it someone we know? 'Mst'
  2. A: [ ] Yes  [X] No   Q: Is it a girl or a woman? 'Yasmine'
- 3. A: [ ] Yes  [X ] No   Q: what she/he looks like? 'Mst'
-
- 4. A: [ ] Yes  [ ] No   Q: 
+ 3. A: [ ] Yes  [X] No   Q: what she/he looks like? 'Mst'
+ 4. A: [ ] Yes  [ ] No   Q: Is she from Brooklyn? 'Yasmine'
  5. A: [ ] Yes  [ ] No   Q: 
  6. A: [ ] Yes  [ ] No   Q: 
  7. A: [ ] Yes  [ ] No   Q: 
