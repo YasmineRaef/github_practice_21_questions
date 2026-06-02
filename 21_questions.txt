@@ -15,19 +15,19 @@ SECRET CATEGORY (host fills in): [x] Person  [ ] Place  [ ] Thing  [ ] Animal
 ------------------------------------------
 Write your yes/no question on each line, then check the host's answer.
 
- 1. A: [x] Yes  [ ] No   Q: Is it someone we know? 'Yasmine'
- 2. A: [] Yes  [ ] No   Q:
- 3. A: [ ] Yes  [] No   Q:
- 4. A: [] Yes  [ ] No   Q:
- 5. A: [] Yes  [ ] No   Q:
- 6. A: [] Yes  [ ] No   Q:
- 7. A: [ ] Yes  [] No   Q:
- 8. A: [ ] Yes  [] No   Q:
- 9. A: [ ] Yes  [ ] No   Q: 
-10. A: [ ] Yes  [ ] No   Q: 
-11. A: [ ] Yes  [ ] No   Q: 
-12. A: [ ] Yes  [ ] No   Q: 
-13. A: [ ] Yes  [ ] No   Q: 
+ 1. A: [x] Yes [] No   Q: Is it someone we know? 'Yasmine'
+ 2. A: [] Yes  [] No   Q: Is it girl/boy? 'Nusrat'
+ 3. A: [] Yes  [] No   Q:
+ 4. A: [] Yes  [] No   Q:
+ 5. A: [] Yes  [] No   Q:
+ 6. A: [] Yes  [] No   Q:
+ 7. A: [ ] Yes [] No   Q:
+ 8. A: [ ] Yes [] No   Q:
+ 9. A: [ ] Yes [] No   Q: 
+10. A: [ ] Yes [] No   Q: 
+11. A: [ ] Yes [] No   Q: 
+12. A: [ ] Yes [] No   Q: 
+13. A: [ ] Yes [] No   Q: 
 14. A: [ ] Yes  [ ] No   Q: 
 15. A: [ ] Yes  [ ] No   Q: 
 16. A: [ ] Yes  [ ] No   Q: 
