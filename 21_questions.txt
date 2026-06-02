@@ -19,7 +19,7 @@ Write your yes/no question on each line, then check the host's answer.
  2. A: [ ] Yes  [X] No   Q: Is it a girl or a woman? 'Yasmine'
  3. A: [ ] Yes  [X] No   Q: what she/he looks like? 'Mst'
  4. A: [ ] Yes  [x] No   Q: Is she from Brooklyn? 'Yasmine'
- 5. A: [ ] Yes  [ ] No   Q: 
+ 5. A: [ ] Yes  [ ] No   Q: Is she birth in th USA? 'Mst"
  6. A: [ ] Yes  [ ] No   Q: 
  7. A: [ ] Yes  [ ] No   Q: 
  8. A: [ ] Yes  [ ] No   Q: 
