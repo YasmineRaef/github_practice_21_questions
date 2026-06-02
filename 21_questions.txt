@@ -7,7 +7,7 @@ HOST   (the one with the secret):  ________Nusrat____________
 DATE:                              ________06/02/2026____________
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [x] Person  [ ] Place  [ ] Thing  [ ] Animal
 
 
 ------------------------------------------
