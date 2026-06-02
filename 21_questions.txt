@@ -2,9 +2,9 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): ____________________
-HOST   (the one with the secret):  ____________________
-DATE:                              ____________________
+PLAYER (the one asking questions): _______Yasmine, Mst_____________
+HOST   (the one with the secret):  ________Nusrat____________
+DATE:                              ________06/02/2026____________
 
 
 SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
