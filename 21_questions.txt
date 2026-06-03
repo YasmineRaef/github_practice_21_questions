@@ -2,12 +2,12 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): _______Yasmine, Nusrat_____________
-HOST   (the one with the secret):  ________Mst____________
-DATE:                              ________06/02/2026____________
+PLAYER (the one asking questions): _______Yasmine, Nusrat, Mst_____________
+HOST   (the one with the secret):  ________Sabea____________
+DATE:                              ________06/03/2026____________
 
 
-SECRET CATEGORY (host fills in): [x] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [] Person  [ ] Place  [ ] Thing  [ X] Animal
 
 
 ------------------------------------------
@@ -15,13 +15,13 @@ SECRET CATEGORY (host fills in): [x] Person  [ ] Place  [ ] Thing  [ ] Animal
 ------------------------------------------
 Write your yes/no question on each line, then check the host's answer.
 
- 1. A: [x] Yes [] No  Q: Is it someone we know? 'Yasmine'
- 2. A: [x] Yes [] No  Q: Is it girl? 'Nusrat'
- 3. A: [x] Yes  [] No  Q: Is she the same age as us or older? 'Yasmine'
- 4. A: [X] Yes  [] No  Q: Is she someone that we know? 'Nusrat'
- 5. A: [x] Yes  [] No  Q: Is she from Bangladesh? 'Yasmine'
- 6. A: [] Yes  [x] No   Q: Is she one of our friends? 'Nusrat'
- 7. A: [ ] Yes [] No   Q:
+ 1. A: [] Yes [] No  Q: 
+ 2. A: [] Yes [] No  Q:
+ 3. A: [] Yes  [] No  Q: 
+ 4. A: [] Yes  [] No  Q:
+ 5. A: [] Yes  [] No  Q: 
+ 6. A: [] Yes  [] No   Q: 
+ 7. A: [ ] Yes [] No   Q: 
  8. A: [ ] Yes [] No   Q:
  9. A: [ ] Yes [] No   Q: 
 10. A: [ ] Yes [] No   Q: 
