@@ -16,7 +16,7 @@ SECRET CATEGORY (host fills in): [] Person  [ ] Place  [ ] Thing  [ X] Animal
 Write your yes/no question on each line, then check the host's answer.
 
  1. A: [] Yes [X] No  Q: Is the Animal we know ? 'Mst'
- 2. A: [] Yes [] No   Q: Is the animal name start with c/d? 'Nusrat' 
+ 2. A: [] Yes [X] No   Q: Is the animal name start with c/d? 'Nusrat' 
  3. A: [] Yes  [] No  Q: 
  4. A: [] Yes  [] No  Q:
  5. A: [] Yes  [] No  Q: 
